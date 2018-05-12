@@ -1,0 +1,32 @@
+_repo: British-Flagsan-Account-of-the-Origin-of-the-Flag-as-a-National-Device_46370
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Vaughan, Herbert S.
+    gutenberg_agent_id: '43771'
+    url: http://www.gutenberg.org/2009/agents/43771
+covers:
+- cover_type: archival
+  image_path: 46370-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Perrin, William Gordon
+    birthdate: 1874
+    gutenberg_agent_id: '43770'
+    url: http://www.gutenberg.org/2009/agents/43770
+description: ''
+gutenberg_issued: '2014-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46370'
+  lccn: '22011380'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CR'
+- !lcsh 'Flags -- Great Britain'
+title: "British Flags: Their Early History, and Their Development at Sea\r\nWith an\
+  \ Account of the Origin of the Flag as a National Device"
+url: http://www.gutenberg.org/ebooks/46370
